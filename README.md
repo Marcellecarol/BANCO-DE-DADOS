@@ -15,11 +15,13 @@ O principal objetivo é analisar o impacto das queimadas no Brasil, verificando 
 ## Consultas Realizadas
 
 1. **Qual estado teve o maior número de focos de queimadas em 2022?**
-2. **Qual foi o bioma mais afetado pelas queimadas em 2022?**
-3. **Qual foi a média de focos de queimadas por estado no Brasil em 2020?**
-4. **Qual município teve mais focos de queimadas em 2021 no estado do Mata Atlântica?**
-5. **Qual a evolução anual do número de queimadas no Cerrado entre 2015 e 2023?**
-6. **Quantos focos de queimadas foram registrados por bioma no ano de 2005?**
+2. **Qual o ano com mais queimadas nos últimos 5 anos no Brasil?
+3. **Qual foi o bioma mais afetado pelas queimadas em 2022?**
+4. **Quantos Estados e anos tem? (Coloque de forma que Estados e Anos não se repita)?
+5. **Qual foi a média de focos de queimadas por estado no Brasil em 2020?**
+6. **Qual município teve mais focos de queimadas em 2021 no estado do Mata Atlântica?**
+7. **Qual a evolução anual do número de queimadas no Cerrado entre 2015 e 2023?**
+8. **Quantos focos de queimadas foram registrados por bioma no ano de 2005?**
 
 ## Como Executar
 
